@@ -47,7 +47,6 @@ DynamoDB     Amazon S3
 | Amazon S3 | Media Storage |
 | AWS IAM | Access Management |
 | Postman | API Testing |
-| AWS SAM / Serverless Framework | Deployment & Infrastructure |
 
 ---
 
