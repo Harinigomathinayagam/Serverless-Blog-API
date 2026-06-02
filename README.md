@@ -18,7 +18,7 @@ A scalable and cost-effective Serverless Blog API built on AWS using AWS Lambda,
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```text
 Client Application
@@ -37,7 +37,7 @@ DynamoDB     Amazon S3
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -50,7 +50,7 @@ DynamoDB     Amazon S3
 
 ---
 
-## 📂 API Endpoints
+##  API Endpoints
 
 ### Create Blog
 
@@ -103,7 +103,7 @@ DELETE /blogs/{id}
 
 ---
 
-## 📮 Postman Testing
+##  Postman Testing
 
 ### Import Collection
 
@@ -124,7 +124,7 @@ DELETE /blogs/{id}
 
 ---
 
-## 📈 Benefits of Serverless Architecture
+##  Benefits of Serverless Architecture
 
 - No server management
 - Automatic scaling
